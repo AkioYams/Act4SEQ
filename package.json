@@ -1,0 +1,23 @@
+{
+  "name": "jstestdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junfuller/JSTestDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junfuller/JSTestDemo/issues"
+  },
+  "homepage": "https://github.com/junfuller/JSTestDemo#readme",
+  "description": "",
+    "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
